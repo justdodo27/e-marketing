@@ -1,0 +1,20 @@
+---
+import Team from '../components/Team.astro';
+import Aboutsection from '../components/Aboutsection.astro';
+import Breadcrumb from '../components/layout/Breadcrumb.astro';
+import Layout from '../layouts/Layout.astro';
+import CTAsection from '../components/CTAsection.astro';
+---
+
+<Layout
+  description="AppCrafters is dedicated to delivering bespoke mobile app solutions for startups, enterprises, and software platforms. Our approach combines innovation with tailored strategies to enhance your digital footprint and engage your audience effectively."
+  title="About Us | Custom Mobile App Development Experts | AppCrafters"
+>
+  <Breadcrumb>
+    <Fragment slot="title">About Us Page</Fragment>
+  </Breadcrumb>
+  <Aboutsection />
+  <!-- <CTAsection /> -->
+  <Team />
+</Layout>
+
