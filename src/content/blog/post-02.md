@@ -3,18 +3,18 @@ draft: false
 title: "Leveraging Current Trends in Web App Development for Competitive Advantage"
 snippet: "Discover how embracing the latest trends in web app development can significantly enhance your project's success and market presence."
 image: {
-    src: "/assets/blog/blog-02.jpg",
+    src: "assets/blog/blog-02.jpg",
     alt: "Innovative Web App Development"
 }
 publishDate: "2023-11-09 11:39"
 category: "Technology Trends"
 author: "Avery Johnson"
 bigImg: {
-    src: "/assets/blog/blog-details-01.jpg",
+    src: "assets/blog/blog-details-01.jpg",
     alt: "Trends in Web App Development",
 }
 authorImg: {
-    src: "/assets/blog/article-author-01.png",
+    src: "assets/blog/article-author-01.png",
     alt: "Avery Johnson",
 }
 comments: "20"

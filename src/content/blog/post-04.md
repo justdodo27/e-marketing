@@ -2,12 +2,12 @@
 draft: false
 title: 'Elevating Your Flutter Development Skills for Increased Earnings'
 snippet: 'Discover essential strategies to boost your income as a Flutter developer by enhancing your skills, building high-quality apps, and leveraging the latest Flutter features.'
-image: { src: '/assets/blog/flutter.png', alt: 'Elevating Flutter Skills' }
+image: { src: 'assets/blog/flutter.png', alt: 'Elevating Flutter Skills' }
 publishDate: '2023-11-11 11:39'
 category: 'Flutter Development'
 author: 'Jordan McKenzie'
-bigImg: { src: '/assets/blog/flutter_details.jpeg', alt: 'Advanced Flutter Techniques' }
-authorImg: { src: '/assets/blog/article-author-02.png', alt: 'Jordan McKenzie' }
+bigImg: { src: 'assets/blog/flutter_details.jpeg', alt: 'Advanced Flutter Techniques' }
+authorImg: { src: 'assets/blog/article-author-02.png', alt: 'Jordan McKenzie' }
 comments: '12'
 views: '102'
 tags: ['Flutter', 'Mobile Development', 'Career Growth']
