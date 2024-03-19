@@ -3,18 +3,18 @@ draft: false
 title: "Maximizing Revenue in Mobile Apps: Upselling and Cross-Selling Strategies"
 snippet: "Unlock the potential of upselling and cross-selling to boost your mobile app's revenue. Learn the strategies that top developers use to increase sales without alienating users."
 image: {
-    src: "assets/blog/mobile_sell.jpeg",
+    src: "/e-marketing/assets/blog/mobile_sell.jpeg",
     alt: "Maximizing Revenue in Mobile Apps"
 }
 publishDate: "2023-11-10 11:39"
 category: "Monetization Strategies"
 author: "Taylor Brooks"
 bigImg: {
-    src: "assets/blog/crossell-vs-upsell.png",
+    src: "/e-marketing/assets/blog/crossell-vs-upsell.png",
     alt: "Effective Upselling and Cross-Selling in Apps",
 }
 authorImg: {
-    src: "assets/blog/article-author-02.png",
+    src: "/e-marketing/assets/blog/article-author-02.png",
     alt: "Taylor Brooks",
 }
 comments: "12"

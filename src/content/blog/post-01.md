@@ -3,18 +3,18 @@ draft: false
 title: "Introducing AppCrafters’ Revolutionary Mobile App Development Approach"
 snippet: "Discover how our cutting-edge mobile app solutions are setting new standards in the industry."
 image: {
-    src: "assets/blog/blog-01.jpg",
+    src: "/e-marketing/assets/blog/blog-01.jpg",
     alt: "Innovative Mobile App Development"
 }
 publishDate: "2023-11-08 11:39"
 category: "Innovation"
 author: "Alex Johnson"
 bigImg: {
-    src: "assets/blog/blog-details-01.jpg",
+    src: "/e-marketing/assets/blog/blog-details-01.jpg",
     alt: "Revolutionizing Mobile App Development",
 }
 authorImg: {
-    src: "assets/blog/author-01.png",
+    src: "/e-marketing/assets/blog/author-01.png",
     alt: "Alex Johnson",
 }
 comments: "05"

@@ -2,12 +2,12 @@
 draft: false
 title: 'Kotlin Multiplatform: The Ultimate Guide to Efficient Cross-Platform Development'
 snippet: 'Discover the power of Kotlin Multiplatform in creating seamless, efficient cross-platform applications with a single codebase.'
-image: { src: 'assets/blog/kotlin_multiplatform.png', alt: 'Kotlin Multiplatform Guide' }
+image: { src: '/e-marketing/assets/blog/kotlin_multiplatform.png', alt: 'Kotlin Multiplatform Guide' }
 publishDate: '2023-11-12 11:39'
 category: 'Cross-Platform Development'
 author: 'Morgan Avery'
-bigImg: { src: 'assets/blog/kotlin_multiplatform_details.jpeg', alt: 'Efficient Cross-Platform Development with Kotlin' }
-authorImg: { src: 'assets/blog/article-author-03.png', alt: 'Morgan Avery' }
+bigImg: { src: '/e-marketing/assets/blog/kotlin_multiplatform_details.jpeg', alt: 'Efficient Cross-Platform Development with Kotlin' }
+authorImg: { src: '/e-marketing/assets/blog/article-author-03.png', alt: 'Morgan Avery' }
 comments: '12'
 views: '120'
 tags: ['Kotlin', 'Cross-Platform', 'Mobile Development']

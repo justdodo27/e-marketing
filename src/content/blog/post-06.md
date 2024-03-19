@@ -2,12 +2,12 @@
 draft: false
 title: 'Leveraging Modern Web Technologies for Scalable Web App Development'
 snippet: 'Dive into the world of web apps and discover how leveraging modern web technologies can drive efficiency, accessibility, and scalability.'
-image: { src: 'assets/blog/web-apps-modern-tech.jpg', alt: 'Innovative Web App Development' }
+image: { src: '/e-marketing/assets/blog/web-apps-modern-tech.jpg', alt: 'Innovative Web App Development' }
 publishDate: '2023-11-13 11:39'
 category: 'Web Development'
 author: 'Jordan Casey'
-bigImg: { src: 'assets/blog/web-app-details.jpg', alt: 'Scalable Web App Development' }
-authorImg: { src: 'assets/blog/article-author-04.png', alt: 'Jordan Casey' }
+bigImg: { src: '/e-marketing/assets/blog/web-app-details.jpg', alt: 'Scalable Web App Development' }
+authorImg: { src: '/e-marketing/assets/blog/article-author-04.png', alt: 'Jordan Casey' }
 comments: '10'
 views: '200'
 tags: ['Web Apps', 'Modern Technologies', 'Scalability']
