@@ -2,36 +2,36 @@
 const menuitems = [
   {
     title: "Home",
-    path: "/#home",
+    path: "#home",
   },
   {
     title: "About",
-    path: "/#about",
+    path: "#about",
   },
   {
     title: "Pricing",
-    path: "/#pricing",
+    path: "#pricing",
   },
   {
     title: "Team",
-    path: "/#team",
+    path: "#team",
   },
   {
     title: "Contact",
-    path: "/#contact",
+    path: "#contact",
   },
   {
     title: "Blog",
-    path: "/blog",
+    path: "blog",
   },
   {
     title: "Pages",
     path: "javascript:void(0)",
     children: [
-      { title: "About Page", path: "/about" },
-      { title: "Pricing Page", path: "/pricing" },
-      { title: "Contact Page", path: "/contact" },
-      { title: "Blog Grid Page", path: "/blog" },
+      { title: "About Page", path: "about" },
+      { title: "Pricing Page", path: "pricing" },
+      { title: "Contact Page", path: "contact" },
+      { title: "Blog Grid Page", path: "blog" },
     ],
   },
 ];
@@ -41,8 +41,8 @@ const menuitems = [
   <div class="container">
     <div class="relative -mx-4 flex items-center justify-between">
       <div class="w-60 max-w-full px-4">
-        <a href="/" class="navbar-logo block w-full py-5">
-          {(Astro.url.pathname === '/') ? (
+        <a href="e-marketing/" class="navbar-logo block w-full py-5">
+          {(Astro.url.pathname === 'e-marketing/') ? (
             <img
               src="assets/logo/logo-white.svg"
               alt="logo"
@@ -84,7 +84,7 @@ const menuitems = [
                         <a
                           href={item.path}
                           class={` ${index}
-                          ${Astro.url.pathname === '/' ? 'ud-menu-scroll mx-8 flex py-2 font-medium text-base text-dark dark:text-white group-hover:text-primary lg:mr-0 lg:ml-7 lg:inline-flex lg:py-6 lg:px-0 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-10' : 'ud-menu-scroll mx-8 flex py-2 font-medium text-base text-dark dark:text-white group-hover:text-primary lg:mr-0 lg:ml-7 lg:inline-flex lg:py-6 lg:px-0 lg:text-body-color dark:lg:text-dark-6 xl:ml-10'}
+                          ${Astro.url.pathname === 'e-marketing/' ? 'ud-menu-scroll mx-8 flex py-2 font-medium text-base text-dark dark:text-white group-hover:text-primary lg:mr-0 lg:ml-7 lg:inline-flex lg:py-6 lg:px-0 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-10' : 'ud-menu-scroll mx-8 flex py-2 font-medium text-base text-dark dark:text-white group-hover:text-primary lg:mr-0 lg:ml-7 lg:inline-flex lg:py-6 lg:px-0 lg:text-body-color dark:lg:text-dark-6 xl:ml-10'}
                           `}>
                           {item.title}
                         </a>
@@ -99,7 +99,7 @@ const menuitems = [
                         <a
                           href={item.path}
                           class={` ${index}
-                          ${Astro.url.pathname === '/' ? 'relative mx-8 flex items-center justify-between py-2 font-medium text-base text-dark dark:text-white group-hover:text-primary lg:mr-0 lg:ml-8 lg:inline-flex lg:py-6 lg:pl-0 lg:pr-4 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-10' : 'relative mx-8 flex items-center justify-between py-2 font-medium text-base text-primary group-hover:text-primary lg:mr-0 lg:ml-8 lg:inline-flex lg:py-6 lg:pl-0 lg:pr-4 xl:ml-10'}
+                          ${Astro.url.pathname === 'e-marketing/' ? 'relative mx-8 flex items-center justify-between py-2 font-medium text-base text-dark dark:text-white group-hover:text-primary lg:mr-0 lg:ml-8 lg:inline-flex lg:py-6 lg:pl-0 lg:pr-4 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-10' : 'relative mx-8 flex items-center justify-between py-2 font-medium text-base text-primary group-hover:text-primary lg:mr-0 lg:ml-8 lg:inline-flex lg:py-6 lg:pl-0 lg:pr-4 xl:ml-10'}
                           `}>
                           {item.title}
 
@@ -134,7 +134,7 @@ const menuitems = [
         </div>
         <div class="justify-end pr-16 flex items-center lg:pr-0">
           <button class="inline-flex cursor-pointer items-center" id="themeSwitcher" >
-            <span class={`hidden dark:block ${Astro.url.pathname === '/' ? 'text-white' : 'text-dark dark:text-white'}`}>
+            <span class={`hidden dark:block ${Astro.url.pathname === 'e-marketing/' ? 'text-white' : 'text-dark dark:text-white'}`}>
               <svg class="fill-current" width="24" height="24" viewBox="0 0 24 24" fill="none"
                 xmlns="http://www.w3.org/2000/svg">
                 <path
